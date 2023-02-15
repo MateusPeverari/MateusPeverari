@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateus Peverari</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate backend developer from Brazil</h3> <br>
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **Spring Frameworks**
 
 - 📫 How to reach me **mateus.peverari@gmail.com**
 
